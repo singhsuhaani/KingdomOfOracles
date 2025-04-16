@@ -8,6 +8,4 @@
 
 // print statement to user about picking landscape 
 // if user input is landscape 
-   // assign landscape 
-
-// ... 
+   // assign landscape
