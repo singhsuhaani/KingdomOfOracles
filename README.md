@@ -2,7 +2,7 @@
 
 ## 📖 Game Description
 
-*Kingdom of Oracles* is a text-based adventure game where your choices define your destiny. You begin by selecting a character and a landscape, then embark on a personalized quest shaped by your decisions.
+Kingdom of Oracles is a text-based adventure game where your choices define your destiny. You begin by selecting a character and a landscape, then embark on a personalized quest shaped by your decisions.
 
 ## 🎮 Game Features
 
